@@ -1,31 +1,8 @@
-# LangChain & LangGraph for building stateful AI workflows
 langchain
 langgraph
-
-# FAISS for vector-based RAG retrieval
-faiss-cpu
-langchain-community
-
-# OpenAI API for LLM interactions (replace with another provider if needed)
-openai
-
-# FastAPI for backend API
-fastapi
-uvicorn
-
-# Streamlit for frontend UI
-streamlit
-requests
-
-# Pydantic for API data validation
-pydantic
-
-# Embeddings for vector storage (OpenAI, Hugging Face, or other providers)
-sentence-transformers
-
-# Additional utilities
-python-dotenv
-tqdm
+langchain_community
 langchain_core
 langchain_groq
 langchain_openai
+faiss-cpu
+streamlit
